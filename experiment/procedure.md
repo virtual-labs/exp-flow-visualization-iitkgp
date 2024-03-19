@@ -4,7 +4,6 @@ Procedure:
 3.	Start the wind tunnel and setup a velocity.
 4.	Observe and record the flow structures.
 5.	Observe the different flow structures:
-
     - Difference between the flow structure of different size of cylinder
     - Change in flow structure with increase in angle of attack of airfoil
 
