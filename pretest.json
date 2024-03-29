@@ -1,0 +1,59 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Smoke flow visualization is the oldest flow visualization method?",
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Smoke flow visualization is a?",
+        "answers": {
+          "a": "Qualitative technique",
+          "b": "Quantitative technique",
+          "c": "Both",
+          "d": "None"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which are necessary properties of smoke for it to be used in visualization experiments?",
+        "answers": {
+          "a": "Naturally buoyant",
+          "b": "Non-toxic",
+          "c": "Optically responsive",
+          "d": "All of the above"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of these are used for flow visualization?",
+        "answers": {
+          "a": "Dye",
+          "b": "Smoke",
+          "c": "Alcohol",
+          "d": "All of the above"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Disadvantage of using smoke?",
+        "answers": {
+          "a": "Expensive",
+          "b": "Leave residue",
+          "c": "Does not work at low velocities",
+          "d": "All of the above"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
