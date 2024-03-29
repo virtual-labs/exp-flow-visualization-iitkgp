@@ -41,24 +41,17 @@ LinkedIn: https://in.linkedin.com/in/akraonandula/
             <p class="text-center"> <h3 class=" my-5 text-primary"> Instructions: </h3>
               <ul class="">
                 <li class="h5 text-secondary"> Before starting the process read the instructions completely</li>
-                  <li class="h5">Interacting with Controls:</li>
-                    <ul>  
-                      <li>Press <b>"E"</b> to interact with the buttons and open the monitor view.</li>
-                      <li>Press <b>"Q"</b> to close the monitor view.</li>
-                    </ul>
-                  <li class="h5">Starting and Stopping the Experiment:</li>
-                    <ul>
-                      <li><b>Start Experiment:</b> Click the <b> "Start Experiment" (Green button)</b> to initiate the airflow experiment. This activates the airflow bench and begins data collection for the current pitot tube position.</li>
-                      <li><b>Stop Experiment:</b> Click the <b>"Stop Experiment" (Red button)</b> to pause the experiment.</li>
-                    </ul>
-                  <li class="h5">Enjoying the Experiment:</li>
-                    <ul>
-                      <li>Immerse yourself in the airflow experiment by manipulating the pitot tube position and observing the resultant changes in collected data.</li>
-                    </ul>
-                  <li class="h5">Resetting:</li>
-                    <ul>
-                      <li>If necessary, reset the collected data and commence a new experiment session by refreshing the game.</li>
-                    </ul>
+                <li class="h5">Controls:</li>
+                <ul>  
+                  <li>Mouse cursor to aim</li>
+                  <li>Press <b>"E"</b> to interact with the objects.</li>
+                  <li>Press <b>"Q"</b> to quit zoom view.</li>
+                </ul>
+              <li class="h5">Procedure</li>
+                <ul>
+                  <li>Interact with the green button to start the wind tunnel</li>
+                  <li>Interact with the change geometry button to change the geometry for visualization</li>
+                </ul>
                   </ul>
             </p> 
           </div>
@@ -118,11 +111,11 @@ LinkedIn: https://in.linkedin.com/in/akraonandula/
             }
       
             var buildUrl = "./js/Build";
-            var loaderUrl = buildUrl + "/Smoke_Low Size.loader.js";
+            var loaderUrl = buildUrl + "/Smoke_Reversed.loader.js";
             var config = {
-              dataUrl: buildUrl + "/Smoke_Low Size.data",
-              frameworkUrl: buildUrl + "/Smoke_Low Size.framework.js",
-              codeUrl: buildUrl + "/Smoke_Low Size.wasm",
+              dataUrl: buildUrl + "/Smoke_Reversed.data",
+              frameworkUrl: buildUrl + "/Smoke_Reversed.framework.js",
+              codeUrl: buildUrl + "/Smoke_Reversed.wasm",
               streamingAssetsUrl: "./js/StreamingAssets",
               companyName: "Virtual Labs, IIT Kharagpur",
               productName: "Flow visualization",
